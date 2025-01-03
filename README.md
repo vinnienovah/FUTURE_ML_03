@@ -60,21 +60,21 @@ An R² value of **0.968** indicates that the model explains 96.8% of the variabi
    pip install -r requirements.txt
    
 3. **Run the notebook**: Open and run the Jupyter notebook `Task_03_Predict_Student_Scores.ipynb` to:
-- Explore the data.
-- Train and evaluate the regression model.
-- Visualize the results.
+   - Explore the data.
+   - Train and evaluate the regression model.
+   - Visualize the results.
 
 **Tools and Libraries Used**
-- **Programming Language**: Python
-- **Libraries**:
-   -  `pandas`, `numpy`: Data manipulation and analysis.
-   - `matplotlib`, `seaborn`: Data visualization.
-   - `scikit-learn`: Model building and evaluation.
+   - **Programming Language**: Python
+   - **Libraries**:
+      -  `pandas`, `numpy`: Data manipulation and analysis.
+      - `matplotlib`, `seaborn`: Data visualization.
+      - `scikit-learn`: Model building and evaluation.
 
 **Key Learnings**
-- How to implement a simple linear regression model.
-- Importance of exploratory data analysis to understand the data.
-- Evaluation of model performance using multiple metrics.
+   - How to implement a simple linear regression model.
+   - Importance of exploratory data analysis to understand the data.
+   - Evaluation of model performance using multiple metrics.
 
 ## Dataset
 The datasets used in this project are provided by the [Kaggle: Students Score Dataset - Linear Regression](https://www.kaggle.com/datasets/shubham47/students-score-dataset-linear-regression).

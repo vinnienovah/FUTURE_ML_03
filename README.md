@@ -67,9 +67,9 @@ An R² value of **0.968** indicates that the model explains 96.8% of the variabi
 **Tools and Libraries Used**
 - **Programming Language**: Python
 - **Libraries**:
-- - `pandas`, `numpy`: Data manipulation and analysis.
--- `matplotlib`, `seaborn`: Data visualization.
--- `scikit-learn`: Model building and evaluation.
+   -  `pandas`, `numpy`: Data manipulation and analysis.
+   - `matplotlib`, `seaborn`: Data visualization.
+   - `scikit-learn`: Model building and evaluation.
 
 **Key Learnings**
 - How to implement a simple linear regression model.

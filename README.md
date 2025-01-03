@@ -80,7 +80,7 @@ An R² value of **0.968** indicates that the model explains 96.8% of the variabi
 The datasets used in this project are provided by the [Kaggle: Students Score Dataset - Linear Regression](https://www.kaggle.com/datasets/shubham47/students-score-dataset-linear-regression).
 
   
-**Author**
+## Author
 This project was completed as part of the Future Interns Machine Learning Internship. Feedback and suggestions are welcome!
 
 Feel free to explore the code and reach out for collaboration. 🚀
